@@ -1,3 +1,3 @@
 # 1st
 
-I am just testing stuff. I know only JAVA. Just seeing how stuff works here before I go back on my DAW.
+I am just testing stuff. I know JAVA, Python and C++. Just seeing how stuff works here.
